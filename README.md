@@ -94,15 +94,8 @@ Distributed under the MIT License. See <a href='License.txt'>License.txt</a> for
 
 
 ## Contact 
-<<<<<<< HEAD
-* Yerim Hong : hongyeee@khu.ac.kr
-* Jueun Shin : wnslcosltimo12@khu.ac.kr
-* Curie Yoon : curieyoon@khu.ac.kr
-_last name 알파벳순_
-=======
  * Yerim Hong : hongyeee@khu.ac.kr
  * Sihwan Kim : vkn123@naver.com
  * Daeyeon Kim : rego0723@khu.ac.kr
  * Jueun Shin : wnslcosltimo12@khu.ac.kr
  * Curie Yoon : curieyoon@khu.ac.kr
->>>>>>> upstream/main
